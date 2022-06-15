@@ -1,10 +1,4 @@
-.texto-centrado{
-    max-width: 550px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-h1{
-    padding: 20px;
-    background-image: linear-gradient(to left, rgb(50, 53, 50), rgb(242, 203, 65));
+.separador{
+    background-color: #ff7809f8;
+    height: 5px;
 }
